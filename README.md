@@ -69,10 +69,14 @@ A continuación se muestra la ventana principal de la aplicación.
 <br>
 <br>
 <div align="center">
+<br>
+<br>
+<br>
+<br>
 <a href="https://youtu.be/W_IQ4EbTPRk" target="_blank">
+<p>Demostración de funcionamiento Video de Youtube</p>
 <img src="./img/prototipo.png" style="width: 50vw; min-width: 140px;" >
 </a>
-<p>Demostración de funcionamiento</p>
 </div>
 
 
